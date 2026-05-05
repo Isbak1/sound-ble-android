@@ -30,7 +30,7 @@ Before the Sound Proof 2FA process, you will need to make a web account and conn
 
 5. Your setup for the Sound Proof 2FA is now complete. Follow the below instruction on the 2FA process.
 
-## Sound Proof 2FA Process
+## Sound Bluetooth 2FA Process
 After connecting your web account with your mobile application, we are now set to log in using Sound Proof 2FA:
 1. After your successful enrollment, redirect your mobile application to the home page where it will say “Waiting for start record signal…”.
 2. Make sure to log out from your web application.
