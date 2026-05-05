@@ -1,4 +1,4 @@
-## Sound Proof 2FA
+## Sound Bluetooth 2FA
 The Sound-Proof concept is a new 2-factor authentication approach that focuses on convenience, usability and saving the user's time by not requiring any interaction with their phone. Instead, Sound-Proof relies on location proximity between the user’s computer and phone in order to verify their legitimacy by comparing the similarity of  the ambient sound recorded by both device’s microphones.
 
 Current prototype requires for the mobile application to be opened while authenticating so our next goal is to implement push notification to make the Sound Proof 2FA system to be completely hands-free.
