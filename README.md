@@ -44,4 +44,4 @@ After connecting your web account with your mobile application, we are now set t
 ## Important Links
 
 
-The repository for the web/server side of the Sound Proof system can be found [here](https://github.com/wilsonhammell/sound-proof-web).
+The repository for the web/server side of the Sound Proof system can be found [here](https://github.com/Isbak1/sound-ble-web).
